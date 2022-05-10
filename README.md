@@ -1,0 +1,2 @@
+# Redes-Neuronales
+# Redes-Neuronales Este codigo sirve para dar a conocer una serie de ejemplos de redes neuronales, en donde se encontrara con algoritmos que utilizan backpropagation y algoritmos de clasificación de imagenes "CNN".   Todo los archivos son .ipynb y se pueden jecutar por separado, algunos indicaran si se debe descargar o utilizar alguna carpeta de datos para entrenamiento  Estas redes neuronales osn importantes ya que se puedne tomar como el algo sencillo pero de gran repercusión ya que son bases para el Depp Learnig y Machine learnig
